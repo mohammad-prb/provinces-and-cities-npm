@@ -1,5 +1,5 @@
 export class Iran {
-    static provincesAndMainCities = [
+    static main = [
         {
             "id": 1,
             "name": "آذربایجان شرقی",
@@ -671,7 +671,7 @@ export class Iran {
             ]
         }
     ]
-    static provincesAndAllCities = [
+    static all = [
         {
             "id": 1,
             "name": "آذربایجان شرقی",
@@ -2136,7 +2136,7 @@ export class Iran {
 }
 
 export class Germany {
-    static provincesAndAllCities = [
+    static all = [
         {
             "id": 1,
             "name": "Baden-Württemberg",
