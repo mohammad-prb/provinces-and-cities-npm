@@ -1,18 +1,19 @@
 {
-  "name": "provinces-and-cities",
-  "version": "1.0.0",
-  "description": "List of provinces and cities of iran",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "provinces",
-    "cities",
-    "province",
-    "city",
-    "iran"
-  ],
-  "author": "Mohammad Pourbehzad",
-  "license": "ISC"
+    "name": "provinces-and-cities",
+    "version": "1.0.0",
+    "description": "List of provinces and cities of Iran and Germany",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "provinces",
+        "cities",
+        "province",
+        "city",
+        "iran",
+        "germany"
+    ],
+    "author": "Mohammad Pourbehzad",
+    "license": "ISC"
 }
