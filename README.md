@@ -11,7 +11,7 @@ If you use languages other than JavaScript and need these lists, you can access 
     npm i provinces-and-cities
 
 ## How to Use
-    import Iran from 'provinces-and-cities'
+    import { Iran } from 'provinces-and-cities'
     
     Iran.main    // all provinces and main cities
     Iran.all     // all provinces and all cities

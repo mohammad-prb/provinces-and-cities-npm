@@ -1,6 +1,6 @@
 {
     "name": "provinces-and-cities",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "List of provinces and cities of Iran and Germany",
     "main": "index.js",
     "scripts": {
