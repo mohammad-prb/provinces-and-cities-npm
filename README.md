@@ -5,7 +5,7 @@ This project provides data for provinces/states and cities of various countries.
 - **Iran**: Detailed list of provinces and cities.
 - **Germany**: Comprehensive list of federal states (Bundesländer) and their cities.
 
-If you use languages other than JavaScript and need these lists, you can access the JSON and MySQL Information through this [repository](https://github.com/mohammad-prb/provinces-and-cities) on Github.
+If you use languages other than JavaScript and need these lists, you can access the JSON and MySQL Information through this [repository](https://github.com/mohammad-prb/provinces-and-cities).
 
 ## Install
     npm i provinces-and-cities

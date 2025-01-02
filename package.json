@@ -1,6 +1,6 @@
 {
     "name": "provinces-and-cities",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "List of provinces and cities of countries",
     "main": "index.js",
     "scripts": {
@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/mohammad-prb/provinces-and-cities-package"
+        "url": "https://github.com/mohammad-prb/provinces-and-cities-npm"
     },
     "keywords": [
         "provinces",
@@ -21,5 +21,5 @@
     "author": "Mohammad Pourbehzad",
     "sideEffects": false,
     "license": "ISC",
-    "homepage": "https://github.com/mohammad-prb/provinces-and-cities-package"
+    "homepage": "https://github.com/mohammad-prb/provinces-and-cities-npm"
 }
