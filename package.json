@@ -1,6 +1,6 @@
 {
     "name": "provinces-and-cities",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "List of provinces and cities of countries",
     "main": "index.js",
     "scripts": {
@@ -20,6 +20,6 @@
     ],
     "author": "Mohammad Pourbehzad",
     "sideEffects": false,
-    "license": "ISC",
+    "license": "MIT",
     "homepage": "https://github.com/mohammad-prb/provinces-and-cities-npm"
 }
