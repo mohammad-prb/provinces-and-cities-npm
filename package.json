@@ -1,6 +1,6 @@
 {
     "name": "provinces-and-cities",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "description": "List of provinces and cities of countries",
     "main": "index.js",
     "scripts": {
